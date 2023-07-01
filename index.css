@@ -102,11 +102,14 @@ header,
 .container {
     width: 90%;
     margin: 0 auto;
+    max-width: 800px;
 }
 
 .main-image {
     width: 100%;
-    margin-bottom: 32px;
+    max-width: 600px;
+    margin: 0 auto 32px;
+    display: block;
 }
 
 .section-two-image-container {
