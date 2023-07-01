@@ -32,19 +32,6 @@ The project will utilize the following technologies:
 
 - HTML5: To structure the content of the web pages.
 - CSS3: To style and layout the elements of the site.
-
-## Getting Started
-
-To get started with the NFT Responsive Site project, follow these steps:
-
-1. Clone the project repository to your local machine.
-2. Set up a development environment with a code editor and web browser.
-3. Open the project in your code editor and explore the existing files and directories.
-4. Start by creating the HTML structure for the site, focusing on semantic markup.
-5. Apply CSS styles to the HTML elements, utilizing relative CSS units, flexbox, and media queries.
-6. Test the site on different devices and screen sizes to ensure responsiveness.
-7. Iterate and refine the design, making adjustments based on user feedback and testing results.
-
 ## Resources
 
 Here are some resources that I found while working on this project:
