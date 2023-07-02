@@ -141,10 +141,6 @@ ul {
   list-style-type: none;
 }
 
-li:not(:last-child) {
-  border-bottom: 1px dotted #a190b6;
-}
-
 /* ----- MEDIA QUERIES ----- */
 
 @media (min-width: 480px) {
@@ -184,5 +180,19 @@ li:not(:last-child) {
 
   p {
     font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 767px) {
+  header {
+    text-align: center;
+  }
+
+  nav {
+    margin-top: 1em;
+  }
+
+  li:not(:last-child) {
+    border-bottom: 1px dotted #a190b6;
   }
 }
