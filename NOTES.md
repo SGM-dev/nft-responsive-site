@@ -34,3 +34,10 @@
 
 - Write your base CSS with mobile devices in mind first
 - Use media queries to adjust the layout and design for wider screens
+
+## Common breakpoints
+
+- 480px: Mobile
+- 768px: Tablet
+- 1024px: Laptop screens
+- 1280px or wider: Desktops
